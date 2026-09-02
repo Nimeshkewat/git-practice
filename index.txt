@@ -1,3 +1,5 @@
 index file created in main branch
 
 new code added in branch feature-index-conflict
+
+new code added again from branch feature-index-conflict
