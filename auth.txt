@@ -1,1 +1,2 @@
 Add auth page
+Add register feature
