@@ -1,3 +1,4 @@
 Add auth page
 Add login feature
 Add register feature
+Add logout feature
